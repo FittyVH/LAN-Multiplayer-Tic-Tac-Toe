@@ -1,0 +1,37 @@
+# Visual Studio temporary files
+
+.vs/
+
+# Build folders
+
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled binaries
+
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.lib
+
+# Visual Studio user files
+
+*.user
+*.suo
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Windows files
+
+Thumbs.db
+Desktop.ini
